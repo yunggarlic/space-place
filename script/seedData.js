@@ -163,7 +163,7 @@ const services = [
     category: 'service',
     description: `Like a weighted blanket, but heavier!`,
     imageURL:
-      'https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/Supermassive_blackhole_planet.jpg?itok=mrUROD80',
+      'https://www.calacademy.org/sites/default/files/styles/manual_crop_standard_960x540/public/bh_lmc.jpg?itok=4edqQr2C&c=1cbd9d30b86b5265e81635f745ea7eeb',
     price: 1000
   },
   {
